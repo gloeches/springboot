@@ -1,0 +1,76 @@
+[2023-02-21 08:48:32,701] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 9584 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 08:48:32,705] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 08:48:32,706] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 08:48:36,222] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 3.768 seconds (process running for 5.167)
+[2023-02-21 09:07:31,357] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 3504 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 09:07:31,480] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 09:07:31,487] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 09:07:34,561] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.849 seconds (process running for 5.027)
+[2023-02-21 09:07:34,566] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-21 09:08:00,710] INFO l.l.r.GreetingController [http-nio-8080-exec-1] Logger desde GreetingController
+[2023-02-21 09:08:00,710] ERROR l.l.r.GreetingController [http-nio-8080-exec-1] error desde GreetingController
+[2023-02-21 09:16:35,386] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 5640 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 09:16:35,393] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 09:16:35,394] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 09:16:38,262] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.136 seconds (process running for 3.893)
+[2023-02-21 09:16:38,268] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-21 09:31:11,911] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 10004 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 09:31:11,914] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 09:31:11,915] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 09:31:15,792] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 4.112 seconds (process running for 5.31)
+[2023-02-21 11:54:18,303] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 9876 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 11:54:18,310] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 11:54:18,311] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 11:54:21,231] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.198 seconds (process running for 4.133)
+[2023-02-21 11:54:21,236] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-21 11:56:32,176] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 3028 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-21 11:56:32,283] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-21 11:56:32,285] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-21 11:56:36,293] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 4.359 seconds (process running for 5.614)
+[2023-02-25 18:47:41,976] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 12040 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-25 18:47:42,055] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-25 18:47:42,056] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-25 18:47:45,290] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.608 seconds (process running for 6.602)
+[2023-02-25 18:47:45,295] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-25 18:51:47,442] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 11812 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-25 18:51:47,449] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-25 18:51:47,450] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-25 18:51:50,372] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.182 seconds (process running for 3.81)
+[2023-02-25 18:51:50,376] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-25 18:53:31,739] INFO l.l.r.GreetingController [http-nio-8080-exec-1] Logger desde GreetingController
+[2023-02-25 18:53:31,739] ERROR l.l.r.GreetingController [http-nio-8080-exec-1] error desde GreetingController
+[2023-02-25 18:56:10,323] INFO l.l.r.GreetingController [http-nio-8080-exec-4] Logger desde GreetingController
+[2023-02-25 18:56:10,323] ERROR l.l.r.GreetingController [http-nio-8080-exec-4] error desde GreetingController
+[2023-02-25 23:12:20,105] INFO l.l.r.GreetingController [http-nio-8080-exec-10] Logger desde GreetingController
+[2023-02-25 23:12:20,105] ERROR l.l.r.GreetingController [http-nio-8080-exec-10] error desde GreetingController
+[2023-02-25 23:20:38,050] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 11236 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-25 23:20:38,058] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-25 23:20:38,060] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-25 23:20:42,040] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 4.249 seconds (process running for 5.584)
+[2023-02-25 23:23:07,398] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 8820 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-25 23:23:07,403] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-25 23:23:07,404] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-25 23:23:11,151] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 3.976 seconds (process running for 5.198)
+[2023-02-26 00:02:23,708] INFO l.l.r.RestfullApplicationTests [main] Starting RestfullApplicationTests using Java 19.0.1 with PID 7892 (started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-26 00:02:23,712] DEBUG l.l.r.RestfullApplicationTests [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-26 00:02:23,713] INFO l.l.r.RestfullApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-26 00:02:27,681] INFO l.l.r.RestfullApplicationTests [main] Started RestfullApplicationTests in 4.192 seconds (process running for 5.417)
+[2023-02-26 00:22:40,292] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 5632 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-26 00:22:40,298] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-26 00:22:40,306] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-26 00:22:43,216] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.179 seconds (process running for 3.813)
+[2023-02-26 00:22:43,221] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-26 00:23:00,221] INFO l.l.r.GreetingController [http-nio-8080-exec-1] Logger desde GreetingController
+[2023-02-26 00:23:00,221] ERROR l.l.r.GreetingController [http-nio-8080-exec-1] error desde GreetingController
+[2023-02-26 00:25:06,356] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 11028 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-26 00:25:06,362] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-26 00:25:06,363] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-26 00:25:09,337] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.238 seconds (process running for 3.856)
+[2023-02-26 00:25:09,348] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
+[2023-02-26 00:26:00,524] INFO l.l.r.GreetingController [http-nio-8080-exec-1] Logger desde GreetingController
+[2023-02-26 00:26:00,525] ERROR l.l.r.GreetingController [http-nio-8080-exec-1] error desde GreetingController
+[2023-02-26 00:34:22,924] INFO l.l.r.RestfullApplication [main] Starting RestfullApplication using Java 19.0.1 with PID 5784 (D:\Java\Workspace\restfull\target\classes started by gloeches in D:\Java\Workspace\restfull)
+[2023-02-26 00:34:22,931] DEBUG l.l.r.RestfullApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+[2023-02-26 00:34:22,932] INFO l.l.r.RestfullApplication [main] No active profile set, falling back to 1 default profile: "default"
+[2023-02-26 00:34:25,890] INFO l.l.r.RestfullApplication [main] Started RestfullApplication in 3.223 seconds (process running for 3.845)
+[2023-02-26 00:34:25,895] INFO l.l.r.RestfullApplication [main] logger desde RestFullApplication
